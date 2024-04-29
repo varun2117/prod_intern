@@ -1,0 +1,2 @@
+scapy library
+sudo privalages
